@@ -1,0 +1,55 @@
+label {
+  color: gray;
+  margin: 18px auto;
+}
+
+h2 {
+  margin: 25px;
+}
+
+p {
+  margin: 10px;
+  color: red;
+  font-size: 10px;
+}
+
+form {
+  padding: 20px 0;
+  position: relative;
+}
+
+form input {
+  border: solid 1px grey;
+  width: 300px;
+  border-radius: 3px;
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 6px 15px;
+  margin: 5px auto;
+  display: block;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+form button {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  outline: 0;
+  background-color: #0fbcf9;
+  border: 0;
+  padding: 11px 15px;
+  color: #FAF9F6;
+  border-radius: 4px;
+  width: 220px;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 50px auto;
+}
+
+.messageSuccess {
+  color: white;
+  padding: 5px;
+  background-color: green;
+}
+/*# sourceMappingURL=Login.css.map */
